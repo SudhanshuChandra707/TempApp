@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempApp", "TempApp\TempApp.csproj", "{A596F60F-4044-405B-9C3A-A9D0D908385A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorDump", "SensorDump\SensorDump.csproj", "{654D1112-2EE1-497B-99C4-0508D34A7B48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A596F60F-4044-405B-9C3A-A9D0D908385A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A596F60F-4044-405B-9C3A-A9D0D908385A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A596F60F-4044-405B-9C3A-A9D0D908385A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A596F60F-4044-405B-9C3A-A9D0D908385A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{654D1112-2EE1-497B-99C4-0508D34A7B48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{654D1112-2EE1-497B-99C4-0508D34A7B48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{654D1112-2EE1-497B-99C4-0508D34A7B48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{654D1112-2EE1-497B-99C4-0508D34A7B48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
